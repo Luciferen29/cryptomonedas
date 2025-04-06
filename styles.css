@@ -31,12 +31,12 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: black;
     text-decoration: none;
 }
 
 main {
-    width: 70%;
+    width: 80%;
     margin: 20px auto;
     background: white;
     padding: 20px;
